@@ -1,1 +1,1 @@
-# rock-paper-scissors
+Run the page live: https://devritra.github.io/rock-paper-scissors/
